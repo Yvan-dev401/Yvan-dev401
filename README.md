@@ -1,5 +1,7 @@
 # Hi there, I'm Yvan! 👋
 
+![Photo de profil](pdc.PNG)
+
 Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions and learning new technologies.
 
 ## 🔭 What I'm Currently Working On
