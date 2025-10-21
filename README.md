@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Yvan! 👋
 
-<!--
-**Yvan-dev401/Yvan-dev401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions and learning new technologies.
 
-Here are some ideas to get you started:
+## 🔭 What I'm Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building full-stack web applications
+- Exploring cloud technologies and DevOps practices
+- Contributing to open-source projects
+
+## 🌱 What I'm Currently Learning
+
+- Advanced JavaScript frameworks and libraries
+- Cloud architecture and microservices
+- Best practices in software engineering
+
+## 💼 Skills & Technologies
+
+- **Languages:** JavaScript, Python, Java
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Tools:** Git, Docker, VS Code
+
+## 👯 I'm Looking to Collaborate On
+
+- Open-source projects
+- Innovative web applications
+- Community-driven development initiatives
+
+## 📫 How to Reach Me
+
+- GitHub: [@Yvan-dev401](https://github.com/Yvan-dev401)
+- Feel free to open an issue or reach out through GitHub!
+
+## ⚡ Fun Fact
+
+I believe that great code is not just about solving problems, but about creating elegant solutions that others can understand and build upon!
+
+---
+
+💡 *Always learning, always building, always improving!*
